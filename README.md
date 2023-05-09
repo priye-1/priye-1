@@ -1,7 +1,5 @@
 ### Hi there I'm Priye, Good to have you here! 👋
 
-<!--
-**priye-1/priye-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 😄 Pronouns: She/Her
 <br>
 - 🔭 I’m currently working working as a freelance data engineer and building my skills. That means...
@@ -24,4 +22,4 @@ Python, Azure Data Factory, Pyspark, Databricks, Scrapy, Selenium, Azure SQL, Ka
 <br>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/tamunopriye-dagogo-george-191175167/">LinkedIn</a>
 - ⚡ Fun fact: I play Volleyball 
--->
+
