@@ -1,4 +1,4 @@
-### Hi there I'm Priye, Good to have you here! 👋
+### I'm Priye, Good to have you here! 👋
 
 I help to create simple and effective ways of transferring data from any source to the desired location, which then makes it useful for analytics, decision-making, and other processes carried out by various team members
 
