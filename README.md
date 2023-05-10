@@ -1,6 +1,6 @@
 ### I'm Priye, Good to have you here! 👋
 
-I am a Data Engineer who creates simple and effective ways of transferring data from any source to the desired location, which then makes it useful for analytics, problem solving, and decision-making.
+I am a Data Engineer who creates simple and effective ways of transferring data from any source to the desired location, making it useful for analytics, problem-solving, and decision-making.
 
 - 😄 Pronouns: She/Her
 
