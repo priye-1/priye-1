@@ -9,7 +9,7 @@ I am a Data Engineer who creates simple and effective ways of transferring data 
     * 💬 I'm looking to collaborate and create some cool content that we can share with the community
 
 - My current skills are:
-Python, Azure Data Factory, Pyspark, Databricks, Scrapy, Selenium, Azure SQL, Kafka, etc.
+Python, Azure Data Factory, EC2, AWS Lambda, S3, Pyspark, Databricks, Scrapy, Selenium, Azure SQL, Kafka, etc.
 
 
 - 🌱 I’m currently learning:
