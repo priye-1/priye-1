@@ -13,7 +13,8 @@ Python, Azure Data Factory, Pyspark, Databricks, Scrapy, Selenium, Azure SQL, Ka
 
 
 - 🌱 I’m currently learning:
-    * AWS (Already worked with Azure cloud)
+    * Streaming services on Apache Spark
+    * DBT for Data modelling
     * How to architectect better data system
 
 
