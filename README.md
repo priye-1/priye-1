@@ -4,8 +4,8 @@ I am a Data Engineer who creates simple and effective ways of transferring data 
 
 - 😄 Pronouns: She/Her
 
-- 🔭 I’m currently working working as a freelance data engineer and building my skills. That means...
-    * 👯 I'm always open for freelance gigs and contract based opportunitites
+- 🔭 I’m currently working working as a freelance Data Engineer and building my skills. That means...
+    * 👯 I'm always open for freelance gigs or contract based opportunitites
     * 💬 I'm looking to collaborate and create some cool content that we can share with the community
 
 - My current skills are:
