@@ -1,4 +1,4 @@
-### I'm Priye, Good to have you here! 👋
+### Hi I'm Priye, Good to have you here! 👋
 
 I am a Data Engineer who creates simple and effective ways of transferring data from any source to the desired location, making it useful for analytics, problem-solving, and decision-making.
 
@@ -18,11 +18,12 @@ Python, Azure Data Factory, EC2, AWS Lambda, S3, Pyspark, Databricks, Scrapy, Se
     * How to architectect better data system
 
 
-- Here are my some of my recent projects:
+- Here are some of my recent projects:
+  * <a href="https://github.com/priye-1/Real_time_End_to_End_Pipeline_using_Kafka"> Real time end-to-end Pipeline Using Kafka</a>
   * <a href="https://github.com/priye-1/Azure_Data_ETL_pipeline">Azure Data ETL pipeline</a>
   * <a href="https://github.com/priye-1/scrapy-data-mining">Scrapy Data mining</a>
 
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/tamunopriye-dagogo-george-191175167/">LinkedIn</a>
-- ⚡ Fun fact: I play Volleyball 
+- ⚡ Fun fact: I play Volleyball 😊
 
