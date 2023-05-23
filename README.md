@@ -19,7 +19,7 @@ Python, Azure Data Factory, EC2, AWS Lambda, S3, Pyspark, Databricks, Scrapy, Se
 
 
 - Here are some of my recent projects:
-  * <a href="https://github.com/priye-1/Real_time_End_to_End_Pipeline_using_Kafka"> Real time end-to-end Pipeline Using Kafka</a>
+  * <a href="https://github.com/priye-1/Real_time_End_to_End_Pipeline_using_Kafka"> Real time end-to-end Pipeline Using AWS and Kafka</a>
   * <a href="https://github.com/priye-1/Azure_Data_ETL_pipeline">Azure Data ETL pipeline</a>
   * <a href="https://github.com/priye-1/scrapy-data-mining">Scrapy Data mining</a>
 
