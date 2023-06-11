@@ -19,6 +19,7 @@ Python, Azure Data Factory, EC2, AWS Lambda, S3, Pyspark, Databricks, Scrapy, Se
 
 
 - Here are some of my recent projects:
+  * <a href="https://github.com/priye-1/Streaming_Data_ETL_with_Apache_Spark_on_Databricks">Streaming Data with Apache Spark on Databricks and AWS</a>
   * <a href="https://github.com/priye-1/airflow_data_pipeline">Data Pipeline Ochestration using Airflow, AWS, and Snowflake</a>
   * <a href="https://github.com/priye-1/Real_time_End_to_End_Pipeline_using_Kafka">Real time end-to-end Pipeline Using AWS and Kafka</a>
   * <a href="https://github.com/priye-1/Azure_Data_ETL_pipeline">Azure Data ETL pipeline</a>
