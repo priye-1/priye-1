@@ -5,10 +5,10 @@ I am a Data Engineer who creates simple and effective ways of transferring data 
 - 😄 Pronouns: She/Her
 
 - 🔭 I’m currently working as a freelance Data Engineer and constantly building my skills. That means...
-    * 👯 I'm always open for freelance gigs or contract based opportunities
+    * 👯 I'm always open to freelance gigs or contract-based opportunities
     * 💬 I'm looking to collaborate and create some cool content that we can share with the community
-
-- Language, Tools, and Services:
+<br>
+- <b>Language, Tools, and Services</b>:
 <p align="left"> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" </a>
@@ -18,14 +18,14 @@ I am a Data Engineer who creates simple and effective ways of transferring data 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-Python, SQL, Pyspark, EC2, Airflow, AWS Lambda, S3, Pyspark, Databricks, Scrapy, Selenium, Azure SQL, Kafka, Azure Data Factory etc.
+Pyspark, EC2, Airflow, AWS Lambda, S3, Pyspark, Databricks, Scrapy, Selenium, Azure SQL, Azure Data Factory etc.
 
-
+<br>
 - 🌱 I’m currently learning:
     * Terraform for IaaS
 
 
-- Here are some of my recent projects:
+- <b>Here are some of my recent projects: </b>
   * <a href="https://github.com/priye-1/Streaming_Data_ETL_with_Apache_Spark_on_Databricks">Streaming Data with Apache Spark on Databricks and AWS</a>
   * <a href="https://github.com/priye-1/OLAP_Dimensional_Modeling_for_Advanced_Analytics/tree/master">Dimensional Modeling for Advanced Analytics using DBT and BigQuery</a>
   * <a href="https://github.com/priye-1/airflow_data_pipeline">Data Pipeline Ochestration using Airflow, AWS, and Snowflake</a>
