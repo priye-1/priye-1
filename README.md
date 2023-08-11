@@ -9,6 +9,7 @@ I am a Data Engineer who creates simple and effective ways of transferring data 
     * 💬 I'm looking to collaborate and create some cool content that we can share with the community
 <br>
 - <b>Language, Tools, and Services</b>:
+<br/>
 <p align="left"> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" </a>
