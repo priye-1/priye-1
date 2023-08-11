@@ -6,8 +6,8 @@ I am a Data Engineer who creates simple and effective ways of transferring data 
 
 - 🔭 I’m currently working as a freelance Data Engineer and constantly building my skills. That means...
     * 👯 I'm always open to freelance gigs or contract-based opportunities
-    * 💬 I'm looking to collaborate and create some cool content that we can share with the community
-<br>
+    * 💬 I'm looking to collaborate and create some cool content that we can share with the community <br>
+
 - <b>Language, Tools, and Services</b>:
 <br/>
 - <p align="left"> 
