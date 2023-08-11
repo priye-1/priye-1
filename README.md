@@ -27,7 +27,7 @@ I am a Data Engineer who creates simple and effective ways of transferring data 
     * Terraform for IaaS
 
 
-- <b>Here are some of my recent projects: </b>
+- <b>My recent projects: </b>
   * <a href="https://github.com/priye-1/Streaming_Data_ETL_with_Apache_Spark_on_Databricks">Streaming Data with Apache Spark on Databricks and AWS</a>
   * <a href="https://github.com/priye-1/OLAP_Dimensional_Modeling_for_Advanced_Analytics/tree/master">Dimensional Modeling for Advanced Analytics using DBT and BigQuery</a>
   * <a href="https://github.com/priye-1/airflow_data_pipeline">Data Pipeline Ochestration using Airflow, AWS, and Snowflake</a>
@@ -41,4 +41,7 @@ I am a Data Engineer who creates simple and effective ways of transferring data 
 <a href="https://www.leetcode.com/priye__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mikekenneth77" height="30" width="40" /></a>
 </p>
 - ⚡ Fun fact: I play Volleyball 😊
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priye-1&show_icons=true&locale=en" alt="priye" /></p>
 
