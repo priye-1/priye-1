@@ -25,6 +25,6 @@ Python, SQL, Pyspark, EC2, Airflow, AWS Lambda, S3, Pyspark, Databricks, Scrapy,
   * <a href="https://github.com/priye-1/scrapy-data-mining">Scrapy Data mining</a>
 
 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/tamunopriye-dagogo-george-191175167/">LinkedIn</a>
+- 📫 Connect with me: <a href="https://www.linkedin.com/in/tamunopriye-dagogo-george-191175167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mike-houngbadji" height="30" width="40" /></a>
 - ⚡ Fun fact: I play Volleyball 😊
 
