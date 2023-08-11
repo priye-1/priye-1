@@ -26,5 +26,8 @@ Python, SQL, Pyspark, EC2, Airflow, AWS Lambda, S3, Pyspark, Databricks, Scrapy,
 
 
 - 📫 Connect with me: <a href="https://www.linkedin.com/in/tamunopriye-dagogo-george-191175167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mike-houngbadji" height="30" width="40" /></a>
+<a href="https://twitter.com/priye__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mikekenneth77" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/priye__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mikekenneth77" height="30" width="40" /></a>
+</p>
 - ⚡ Fun fact: I play Volleyball 😊
 
